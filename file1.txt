@@ -1,1 +1,1 @@
-half feature implemented
+full feature implemented
