@@ -1,4 +1,4 @@
 login page
-strong password
+strong passwords
 full feature implemented
 small changes
